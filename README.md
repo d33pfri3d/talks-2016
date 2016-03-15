@@ -26,6 +26,7 @@ I've done this before, and I'll do it again. Probably won't be submitting too ma
   JSConf Iceland            (Awaiting Reply)
   CSS Dev Conf              (Awaiting Reply)
   Forward JS                (Awaiting Reply)
+  CodeConf                  (Awaiting Reply)
 
   ```
   
