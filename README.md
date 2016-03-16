@@ -5,7 +5,7 @@ I've done this before, and I'll do it again. Probably won't be submitting too ma
 #[Javascript is amazing, and nobody is happy](https://github.com/shaundunne/talks-2016/blob/master/js-is-amazing.md)
 ###Submitted to :
   ```
-  ScotlandJS (awaiting Reply)
+  ScotlandJS (~awaiting Reply~ DECLINED)
   ```
 
 #[Unbrowserify your JS](https://github.com/shaundunne/talks-2016/blob/master/unbrowserify-your-js.md)
