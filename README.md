@@ -27,7 +27,8 @@ I've done this before, and I'll do it again. Probably won't be submitting too ma
   CSS Dev Conf              (Awaiting Reply)
   Forward JS                (Awaiting Reply)
   CodeConf                  (Awaiting Reply)
-
+  EMF                       (Awaiting Reply)
+  Angular Connect           (Awaiting Reply)
   ```
   
 
